@@ -3,7 +3,7 @@ title:  "화이트 보드"
 excerpt: "내 방 화이트보드에 있는 것을 지우기위한 글"
 
 categories:
-  - Blog
+  - A4
 tags:
   - Bullshit
 last_modified_at: 2019-04-13T08:06:00-05:00

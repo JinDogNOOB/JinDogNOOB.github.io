@@ -3,10 +3,10 @@ title:  "내 다짐"
 excerpt: "다짐을 다짐하였다"
 
 categories:
-  - Blog
+  - Diary
 tags:
   - Bullshit
-last_modified_at: 2019-04-13T08:06:00-05:00
+last_modified_at: 2019-04-13T08:06:00-05:00 
 ---
 
 나를 표현하기 위한 블로그
