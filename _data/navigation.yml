@@ -1,11 +1,11 @@
 # main links
 main:
   - title: Diary
-    url: /diary
+    url: /diary/
   - title: Tech
-    url: /tech
+    url: /tech/
   - title: A4
-    url: /a4
+    url: /a4/
   - title: "Q-S-Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
