@@ -1,15 +1,7 @@
 # main links
 main:
-  - title: Diary
-    url: /diary/
-  - title: Tech
-    url: /tech/
-  - title: A4
-    url: /a4/
-  - title: konoDioGa!!
-    url: /a4/
-  - title: "Q-S-Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: Categories
+    url: /categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
