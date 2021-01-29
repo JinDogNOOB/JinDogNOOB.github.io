@@ -9,15 +9,8 @@ tags:
 last_modified_at: 2021-01-01
 ---
 
-# 할 것
-* Decentralized News(m)
-    - 프론트 -> IPFS -> REACT.js
-    - 백 -> 이더리움 메인넷 -> 스마트컨트랙트 -> 로직 교체 가능하게, 데이터는 유지
-    * 사항
-        - 후원 가능 
-        - IPFS자료 hash SC에서 관리
-        - 단체 생성 가능해야함 -> 단체활동을 투표로 정한다 (기자 단체)'
-
+# 완료
+* https://github.com/JinDogNOOB/sermon , sermon-front
 * 잔소리해주세요(m)
     - 프 -> jsp 로 간단하게 짜자
     - 백 -> spring boot
@@ -26,6 +19,14 @@ last_modified_at: 2021-01-01
         - B가 사연을 본다 -> 잔소리 시전
         - A가 잔소리 채택 -> B 포인트 증가
         - 포인트는 경험치 
+# 할 것
+* Decentralized News(m)
+    - 프론트 -> IPFS -> REACT.js
+    - 백 -> 이더리움 메인넷 -> 스마트컨트랙트 -> 로직 교체 가능하게, 데이터는 유지
+    * 사항
+        - 후원 가능 
+        - IPFS자료 hash SC에서 관리
+        - 단체 생성 가능해야함 -> 단체활동을 투표로 정한다 (기자 단체)'
 
 * 듀얼로 승부하자
     - 프 react
