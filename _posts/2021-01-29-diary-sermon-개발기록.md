@@ -14,6 +14,8 @@ last_modified_at: 2021-01-29
 
 포트폴리오용 프로젝트가 없길래 급하게 10일정도를 투자해서 만든 
 sermon, sermon-front, 가 끝났다.
+url: https://github.com/JinDogNOOB/sermon
+url: https://github.com/JinDogNOOB/sermon-front
 
 sermon에는 spring boot, restapi, orm jpa hibernate, paging, #검색, spring security, TDD 등의 기술을 사용했다.
 하면서 조금 도움이 됬던 것은 spring security를 실제로 적용해봄으로써 filter와 interceptor 에 조금 적응했던것? 이 있는 것 같다.
