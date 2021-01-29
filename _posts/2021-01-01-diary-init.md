@@ -5,7 +5,7 @@ excerpt: "다짐을 다짐하였다"
 categories:
   - diary
 tags:
-  - Bullshit
+  - susume
 last_modified_at: 2021-01-01
 ---
 
