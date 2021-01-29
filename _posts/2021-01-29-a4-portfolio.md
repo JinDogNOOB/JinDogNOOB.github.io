@@ -154,8 +154,9 @@ last_modified_at: 2021-01-29
 > 블록체인이 가진 큰 난관은 사용자가 얼마나 사용하기 쉽게 만들 수 있는가 라고 생각합니다.
 > 저는 최대한 이를 해결하기 위해서 상황판과 간단한 기능 버튼 및 Metamask 연동으로 프론트를 개발했습니다.
 >
-> https://github.com/JinDogNOOB/easy-lottery
-> https://github.com/JinDogNOOB/easy-lottery-contract
+> 프론트엔드 https://github.com/JinDogNOOB/easy-lottery
+>
+> 스마트컨트랙트 https://github.com/JinDogNOOB/easy-lottery-contract
 
 
 ##### 개인프로젝트 고민 답변 커뮤니티 "Sermon"
@@ -177,7 +178,9 @@ last_modified_at: 2021-01-29
 > 목표가 빠르게 구축하는 것이였기 때문에 핵심 구현사항을 먼저 개발했습니다.
 > 만약 시간이 더 투자할 수 있다면 naver, google oauth 로그인 기능과 해시태그에 weight를 주어서 실시간트렌드를 알 수 있게 하는 기능을 넣고 싶습니다.
 >
-> https://github.com/JinDogNOOB/sermon
+> 백엔드 https://github.com/JinDogNOOB/sermon
+>
+> 프론트엔드 https://github.com/JinDogNOOB/sermon-front
 
 
 ### 수상 이력
