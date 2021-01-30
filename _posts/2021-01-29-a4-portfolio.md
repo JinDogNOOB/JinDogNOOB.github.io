@@ -11,7 +11,7 @@ last_modified_at: 2021-01-29
 <!--  https://dillinger.io/  mark down examples-->
 
 # 나의 첫 Portfolio
----
+
 ### 목차
 
 * 소개 및 삶 이야기
@@ -27,6 +27,8 @@ last_modified_at: 2021-01-29
     - 우수논문상
 * 맽음말
 ---
+
+
 ### 소개 및 삶 이야기
 
 > 안녕하세요
@@ -55,6 +57,8 @@ last_modified_at: 2021-01-29
 >
 
 ---
+
+
 ### 기술스택
 
 앞으로 더 많이 깊게 배우고 싶습니다.
@@ -81,6 +85,8 @@ last_modified_at: 2021-01-29
 * [Git/Github] - 협업할 때나 개인프로젝트를 진행할 때 주로 github을 사용합니다
 * [TDD] - 최근 프로젝트에서 테스트 코드를 짜고 통과하는 식으로 개발을 해보았는데 상당히 개발기간단축에 도움이 되었습니다.
 ---
+
+
 ### 프로젝트 이력
 ---
 ##### 게임 커뮤니티 & 쇼핑 "STAMP"
@@ -108,6 +114,8 @@ last_modified_at: 2021-01-29
 <img width="900" src="https://user-images.githubusercontent.com/49367014/103537825-69cee000-4ed8-11eb-86fa-1eeb38608e93.png" />
 </div>
 ---
+
+
 ##### 블록체인 기반 명품 인증 시스템 "UNBeil"
 
 > 개발기간 (2019-12 ~ 2020-06)
@@ -128,6 +136,7 @@ last_modified_at: 2021-01-29
 > 이는 다음 프로젝트때 Github을 도입하는 가장 큰 이유가 되었습니다.
 ---
 
+
 ##### 블록체인 기반 미술품 인증 시스템 "QArt"
 
 > 개발기간 (2020-06 ~ 2020-08)
@@ -139,6 +148,7 @@ last_modified_at: 2021-01-29
 > 실제 미술계 인사와 만들려고 하는 시스템에 대해서 토의하고 의견을 들을 수 있는 좋은 경험이었습니다.
 > 가장 뿌듯했고 기억에 남는 것은 이 프로젝트에 Github를 도입한 것입니다.
 ---
+
 
 ##### 개인프로젝트 공정한 로또 시스템 "easy-lottery"
 
@@ -170,6 +180,8 @@ last_modified_at: 2021-01-29
  <img width="900" src="https://user-images.githubusercontent.com/49367014/104803610-7fb39d80-5814-11eb-9b06-5158235f203b.PNG" />
 </div>
 ---
+
+
 ##### 개인프로젝트 고민 답변 커뮤니티 "Sermon"
 
 > 개발기간 (2021-01 / 10일)
@@ -207,6 +219,8 @@ last_modified_at: 2021-01-29
 <img width="900" src="https://user-images.githubusercontent.com/49367014/106103939-0bb6b500-6185-11eb-8ce8-8d0141bcbb4e.PNG">
 </div>
 ---
+
+
 ### 수상 이력
 
 ##### 교내 보안경진대회 금상(총장상) 
