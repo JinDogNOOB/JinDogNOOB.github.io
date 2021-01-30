@@ -113,6 +113,7 @@ last_modified_at: 2021-01-29
 <img width="900" src="https://user-images.githubusercontent.com/49367014/103537820-68051c80-4ed8-11eb-8285-03f826567cc2.png" />
 <img width="900" src="https://user-images.githubusercontent.com/49367014/103537825-69cee000-4ed8-11eb-86fa-1eeb38608e93.png" />
 </div>
+
 ---
 
 
@@ -134,6 +135,7 @@ last_modified_at: 2021-01-29
 > 가장 중요한 것은 이때까지 형상관리 도구를 사용하지 않았다는 것입니다. 이것은 가장 큰 후회이고 교훈이었습니다.
 > 이 때는 단순히 압축파일로 서로 형상관리를 했고 그 중에 많은 코드가 유실되었습니다.
 > 이는 다음 프로젝트때 Github을 도입하는 가장 큰 이유가 되었습니다.
+
 ---
 
 
@@ -147,6 +149,7 @@ last_modified_at: 2021-01-29
 > 프로젝트 세부 개발쪽에는 참여를 하지 않았지만
 > 실제 미술계 인사와 만들려고 하는 시스템에 대해서 토의하고 의견을 들을 수 있는 좋은 경험이었습니다.
 > 가장 뿌듯했고 기억에 남는 것은 이 프로젝트에 Github를 도입한 것입니다.
+
 ---
 
 
@@ -179,6 +182,7 @@ last_modified_at: 2021-01-29
  <img width="900" src="https://user-images.githubusercontent.com/49367014/104805771-c48c0400-5815-11eb-94af-21349d8a502a.PNG" />
  <img width="900" src="https://user-images.githubusercontent.com/49367014/104803610-7fb39d80-5814-11eb-9b06-5158235f203b.PNG" />
 </div>
+
 ---
 
 
@@ -218,6 +222,7 @@ last_modified_at: 2021-01-29
 <img width="900" src="https://user-images.githubusercontent.com/49367014/106103936-0a858800-6185-11eb-8903-725d9f42e7c1.PNG">
 <img width="900" src="https://user-images.githubusercontent.com/49367014/106103939-0bb6b500-6185-11eb-8ce8-8d0141bcbb4e.PNG">
 </div>
+
 ---
 
 
