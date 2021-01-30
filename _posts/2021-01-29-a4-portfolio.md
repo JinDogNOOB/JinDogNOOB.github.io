@@ -101,11 +101,11 @@ last_modified_at: 2021-01-29
 > 
 > https://github.com/JinDogNOOB/stp
 <div>
-<img width="900" src="https://user-images.githubusercontent.com/49367014/103537789-5d4a8780-4ed8-11eb-837c-0d7f9c4387bb.png">
-<img width="900" src="https://user-images.githubusercontent.com/49367014/103537805-63d8ff00-4ed8-11eb-8a7b-fc00c9c6c258.png">
-<img width="900" src="https://user-images.githubusercontent.com/49367014/103537816-66d3ef80-4ed8-11eb-8b7d-cb9362df36b1.png">
-<img width="900" src="https://user-images.githubusercontent.com/49367014/103537820-68051c80-4ed8-11eb-8285-03f826567cc2.png">
-<img width="900" src="https://user-images.githubusercontent.com/49367014/103537825-69cee000-4ed8-11eb-86fa-1eeb38608e93.png">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/103537789-5d4a8780-4ed8-11eb-837c-0d7f9c4387bb.png" />
+<img width="900" src="https://user-images.githubusercontent.com/49367014/103537805-63d8ff00-4ed8-11eb-8a7b-fc00c9c6c258.png" />
+<img width="900" src="https://user-images.githubusercontent.com/49367014/103537816-66d3ef80-4ed8-11eb-8b7d-cb9362df36b1.png" />
+<img width="900" src="https://user-images.githubusercontent.com/49367014/103537820-68051c80-4ed8-11eb-8285-03f826567cc2.png" />
+<img width="900" src="https://user-images.githubusercontent.com/49367014/103537825-69cee000-4ed8-11eb-86fa-1eeb38608e93.png" />
 </div>
 
 ##### 블록체인 기반 명품 인증 시스템 "UNBeil"
@@ -163,7 +163,12 @@ last_modified_at: 2021-01-29
 > 프론트엔드 https://github.com/JinDogNOOB/easy-lottery
 >
 > 스마트컨트랙트 https://github.com/JinDogNOOB/easy-lottery-contract
-
+<div>
+ <img width="900" src="https://user-images.githubusercontent.com/49367014/104805768-c2c24080-5815-11eb-9897-d94c941ec5cd.PNG" />
+ <img width="900" src="https://user-images.githubusercontent.com/49367014/104805769-c3f36d80-5815-11eb-9136-0666ec4c7f20.PNG" />
+ <img width="900" src="https://user-images.githubusercontent.com/49367014/104805771-c48c0400-5815-11eb-94af-21349d8a502a.PNG" />
+ <img width="900" src="https://user-images.githubusercontent.com/49367014/104803610-7fb39d80-5814-11eb-9b06-5158235f203b.PNG" />
+</div>
 
 ##### 개인프로젝트 고민 답변 커뮤니티 "Sermon"
 
@@ -187,7 +192,20 @@ last_modified_at: 2021-01-29
 > 백엔드 https://github.com/JinDogNOOB/sermon
 >
 > 프론트엔드 https://github.com/JinDogNOOB/sermon-front
-
+<div>
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103074-b8903280-6183-11eb-8095-3949d67b26a4.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103077-b9c15f80-6183-11eb-94c8-c90fdb278c60.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103079-baf28c80-6183-11eb-93ba-b7df891aa3a9.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103085-bcbc5000-6183-11eb-94f1-1883801b101a.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103091-bfb74080-6183-11eb-9290-6ae4e39e1e7f.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103097-c1810400-6183-11eb-8c73-20e431d50e09.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103103-c34ac780-6183-11eb-985d-05582ae600a6.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103108-c5148b00-6183-11eb-859b-7d27b3560a61.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103122-c80f7b80-6183-11eb-8d53-62ffaa453d34.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103129-c9d93f00-6183-11eb-8779-aa83a02c4146.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103936-0a858800-6185-11eb-8903-725d9f42e7c1.PNG">
+<img width="900" src="https://user-images.githubusercontent.com/49367014/106103939-0bb6b500-6185-11eb-8ce8-8d0141bcbb4e.PNG">
+</div>
 
 ### 수상 이력
 
@@ -203,12 +221,12 @@ last_modified_at: 2021-01-29
 > 수상날짜 2020-07
 > IPFS와 Ethereum 기반의 사물인터넷 업데이트 방법 
 > 
-> 위에 내용을 근간해서 여러 내용을 참조해서 논문을 동기와 함께 작성해서 학술대회에 논문을 투고했습니다.
+> 교내 보안경진대회 내용에 보충 및 여러 내용을 참조해서 논문을 동기와 함께 작성해서 학술대회에 논문을 투고했습니다.
 > 담당 교수님의 도움으로 좋은 문장을 쓸 수 있었고 우수 논문상을 수상할 수 있었습니다.
 
 
 ### 맽음말 
 > 2년이라는 기간동안 사이버 보안을 공부하고
-> 또 2년이라는 기간동안 소프트웨어 개발을 공부했습니다.
-> 중간에 진로를 바꾼 만큼 더욱 정진할 것입니다.
+> 2년이라는 기간동안 소프트웨어 개발을 공부했습니다.
+> 중간에 진로를 바꾼 만큼 더욱 배워나갈겁니다
 
