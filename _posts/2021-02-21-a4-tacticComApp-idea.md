@@ -51,6 +51,7 @@ last_modified_at: 2021-02-21
     - https://changicho.tistory.com/entry/WebRTC-00-%EA%B8%B0%EC%B4%88
     - http://www.gilgil.net/?mid=communities_kr&comment_srl=7102&listStyle=webzine&page=11&document_srl=18378
     - https://rlg1133.tistory.com/90
+    - https://www.html5rocks.com/ko/tutorials/webrtc/infrastructure/
     - STUN(홀펀칭), TURN 방식
 
 
